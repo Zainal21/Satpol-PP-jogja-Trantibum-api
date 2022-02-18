@@ -1,0 +1,82 @@
+{
+    "message": "success",
+    "code": 200,
+    "data": [{
+        "kode": "54",
+        "namajenis": "Deteksi dini",
+        "userinput": "Satpol PP Kabupaten Sleman",
+        "tglinput": "2021-04-01",
+        "id_bidang": "1",
+        "nama_bidang": "Trantibum"
+    }, {
+        "kode": "56",
+        "namajenis": "Data lokasi rawan gangguan tribumtranmas di 5 Kab\/Kota DIY",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-04-01",
+        "id_bidang": "1",
+        "nama_bidang": "Trantibum"
+    }, {
+        "kode": "57",
+        "namajenis": "Data lokasi rawan gangguan tribumtranmas di perbatasan",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-04-01",
+        "id_bidang": "1",
+        "nama_bidang": "Trantibum"
+    }, {
+        "kode": "64",
+        "namajenis": "Unjuk rasa",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-04-01",
+        "id_bidang": "1",
+        "nama_bidang": "Trantibum"
+    }, {
+        "kode": "71",
+        "namajenis": "Patroli trantibum",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-08-04",
+        "id_bidang": "1",
+        "nama_bidang": "Trantibum"
+    }, {
+        "kode": "72",
+        "namajenis": "operasi pengendalian tibuntranmas",
+        "userinput": "Handri Wahyu N",
+        "tglinput": "2021-08-04",
+        "id_bidang": "1",
+        "nama_bidang": "Trantibum"
+    }, {
+        "kode": "73",
+        "namajenis": "Operasi Prokes Covid-19",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-11-05",
+        "id_bidang": "1",
+        "nama_bidang": "Trantibum"
+    }, {
+        "kode": "61",
+        "namajenis": "Pengamanan Aset",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-04-01",
+        "id_bidang": "2",
+        "nama_bidang": "Pengamanan"
+    }, {
+        "kode": "62",
+        "namajenis": "Pengamanan Event",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-04-01",
+        "id_bidang": "2",
+        "nama_bidang": "Pengamanan"
+    }, {
+        "kode": "63",
+        "namajenis": "Kunjungan Kerja",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-04-01",
+        "id_bidang": "2",
+        "nama_bidang": "Pengamanan"
+    }, {
+        "kode": "74",
+        "namajenis": "Pemantauan Aset",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-11-05",
+        "id_bidang": "2",
+        "nama_bidang": "Pengamanan"
+    }]
+}

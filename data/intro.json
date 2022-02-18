@@ -1,7 +1,12 @@
 {
     "endpoint": {
         "penegakan": "https://api-penegakan-polppjogja.vercel.app/api/penegakan",
-        "trantibum": "https://api-penegakan-polppjogja.vercel.app/api/trantibum"
+        "detail-penegakan": "https://api-penegakan-polppjogja.vercel.app/api/detail-penegakan",
+        "trantibum": "https://api-penegakan-polppjogja.vercel.app/api/trantibum",
+        "detail-trantibum": "https://api-penegakan-polppjogja.vercel.app/api/detail-trantibum",
+        "jenis-trantibum": "https://api-penegakan-polppjogja.vercel.app/api/jenis-trantibum",
+        "perda": "https://api-penegakan-polppjogja.vercel.app/api/perda",
+        "bidang": "https://api-penegakan-polppjogja.vercel.app/api/bidang"
     },
     "source": "https://github.com/Zainal21/SatpolPP-jogja-Trantibum-api"
   }

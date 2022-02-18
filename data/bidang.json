@@ -1,0 +1,59 @@
+{
+    "message": "success",
+    "code": 200,
+    "data": [{
+        "kode": "7",
+        "nama_bidang": "Jaga Warga",
+        "userinput": null,
+        "tglinput": null,
+        "id_menu": "13"
+    }, {
+        "kode": "9",
+        "nama_bidang": "Kerjasama",
+        "userinput": null,
+        "tglinput": null,
+        "id_menu": "12"
+    }, {
+        "kode": "3",
+        "nama_bidang": "Penegakan Perda",
+        "userinput": null,
+        "tglinput": null,
+        "id_menu": "10"
+    }, {
+        "kode": "2",
+        "nama_bidang": "Pengamanan",
+        "userinput": null,
+        "tglinput": null,
+        "id_menu": "7"
+    }, {
+        "kode": "8",
+        "nama_bidang": "Pengembangan Kapasitas",
+        "userinput": null,
+        "tglinput": null,
+        "id_menu": "12"
+    }, {
+        "kode": "5",
+        "nama_bidang": "Satlinmas",
+        "userinput": null,
+        "tglinput": null,
+        "id_menu": "13"
+    }, {
+        "kode": "6",
+        "nama_bidang": "Satlinmas Rescue Istimewa",
+        "userinput": null,
+        "tglinput": null,
+        "id_menu": "13"
+    }, {
+        "kode": "4",
+        "nama_bidang": "Sosialisasi",
+        "userinput": null,
+        "tglinput": null,
+        "id_menu": "10"
+    }, {
+        "kode": "1",
+        "nama_bidang": "Trantibum",
+        "userinput": null,
+        "tglinput": null,
+        "id_menu": "7"
+    }]
+}

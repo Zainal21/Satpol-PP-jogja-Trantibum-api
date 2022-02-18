@@ -1,0 +1,31 @@
+{
+    "data": [{
+        "kode": "2934",
+        "kdsatgas": "002",
+        "lokasi": "Jl. Hos Cokroaminoto",
+        "lokasi_x": "",
+        "lokasi_y": "",
+        "namasatgas": "KOTA YOGYAKARTA",
+        "tglperda": "2022-02-02",
+        "kategori_peraturan": "[\"1\"]",
+        "jenis_perda": "",
+        "jenis_pelanggaran": "Memasang reklame tidak memiliki ijin",
+        "jumlah_pelanggaran": "1",
+        "instansi_terkait": "DINAS PERIJINAN",
+        "keterangan": "Sanksi : Denda",
+        "tglinput": "2022-02-10",
+        "pelanggar": [{
+            "nik": "",
+            "nama": "Catur Wicaksono",
+            "alamat": "a"
+        }],
+        "publish": "0",
+        "kduser": "13",
+        "id_bidang": "3",
+        "id_jenis_kegiatan": "1",
+        "nama_bidang": "Penegakan Perda",
+        "jenis_kegiatan": "Yustisi"
+    }],
+    "message": "success",
+    "status": 200
+}
