@@ -1,0 +1,7 @@
+{
+    "endpoint": {
+        "penegakan": "https://api-penegakan-polppjogja.vercel.app/api/penegakan",
+        "trantibum": "https://api-penegakan-polppjogja.vercel.app/api/trantibum"
+    },
+    "source": "https://github.com/Zainal21/SatpolPP-jogja-Trantibum-api"
+  }
