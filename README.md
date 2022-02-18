@@ -325,3 +325,49 @@
     }]
 }
 ```
+
+
+### Data Kategori Peraturan
+
+```json
+{
+    "message": "success",
+    "code":200,
+    "data": [{
+        "kode": "4",
+        "nama_kategori": "PERATURAN PEMERINTAH",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-03-26"
+    }, {
+        "kode": "7",
+        "nama_kategori": "Peraturan UU",
+        "userinput": "Satpol PP Kabupaten Sleman",
+        "tglinput": "2021-04-21"
+    }, {
+        "kode": "1",
+        "nama_kategori": "PERDA",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-03-26"
+    }, {
+        "kode": "5",
+        "nama_kategori": "PERGUB",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-03-27"
+    }, {
+        "kode": "2",
+        "nama_kategori": "PERMEN",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-03-26"
+    }, {
+        "kode": "6",
+        "nama_kategori": "PERPRES",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-03-27"
+    }, {
+        "kode": "3",
+        "nama_kategori": "PERPROV",
+        "userinput": "SATPOL PP DIY",
+        "tglinput": "2021-03-26"
+    }]
+}
+```
